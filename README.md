@@ -10,4 +10,4 @@
 ## 项目设置
 
 > 项目分 Vue 和 React ,其中 Vue 分 Vue2.0 和 Vue3.0; Vue3.0 使用语言 typesrcipt。react 学习了 但是不是很熟悉 以最新的为准.
-> 项目都使用 webpack5.0, react 的 UI 框架？？（研究一下）
+> 项目都使用 webpack5.0,
