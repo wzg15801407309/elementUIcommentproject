@@ -9,7 +9,7 @@
   修改时间：2020.10.01
 -->
 <template>
-  <div class="该组件名称"></div>
+  <div class="该组件名称">主页</div>
 </template>
 <script>
 //import(导入)其他文件（如：组件，工具js，第三方插件js，json文件，图片文件等）
