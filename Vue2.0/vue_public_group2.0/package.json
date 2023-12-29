@@ -12,6 +12,7 @@
     "element-ui": "^2.15.14",
     "i": "^0.3.7",
     "less": "^4.2.0",
+    "normalize.css": "^8.0.1",
     "npm": "^10.2.4",
     "save-dev": "^0.0.1-security",
     "vue": "^2.6.14"

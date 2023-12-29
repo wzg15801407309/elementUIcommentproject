@@ -9,7 +9,22 @@
   修改时间：2020.10.01
 -->
 <template>
-  <div class="该组件名称">主页</div>
+  <el-container class="main-control">
+    <el-header>
+      <div class="main-header">
+        <div class="left-header">
+          <img
+            src="../../assets/icon/homeicon.png"
+            class="logo"
+            alt="main logo"
+          />
+        </div>
+        <div class="right-header">you bian</div>
+      </div>
+    </el-header>
+    <el-main>Main</el-main>
+    <el-footer>Footer</el-footer>
+  </el-container>
 </template>
 <script>
 //import(导入)其他文件（如：组件，工具js，第三方插件js，json文件，图片文件等）
@@ -53,4 +68,18 @@ export default {
 </script>
 <style scoped lang='less'>
 /* @import url(); 引入css类 */
+.main-control {
+  .el-header {
+    background-color: #b3c0d1;
+    color: #333;
+    line-height: 60px;
+    .main-header {
+      display: flex;
+      .left-header {
+      }
+      .right-header {
+      }
+    }
+  }
+}
 </style>
